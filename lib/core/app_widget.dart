@@ -12,6 +12,7 @@ class AppWidget extends StatelessWidget {
       routerDelegate: _appRouter.delegate(),
       routeInformationParser: _appRouter.defaultRouteParser(),
       title: AppConstants.appName,
+      theme: ThemeData.dark(),
       debugShowCheckedModeBanner: false,
     );
   }
