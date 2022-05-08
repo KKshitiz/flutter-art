@@ -1,4 +1,4 @@
-# flutter_watch
+# flutter_art
 
 A new Flutter project.
 

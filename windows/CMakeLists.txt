@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_watch LANGUAGES CXX)
+project(flutter_art LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_watch")
+set(BINARY_NAME "flutter_art")
 
 cmake_policy(SET CMP0063 NEW)
 
