@@ -197,8 +197,8 @@ class Screen extends StatelessWidget {
                       const SizedBox(height: 25),
                       ClipRRect(
                         borderRadius: BorderRadius.circular(8),
-                        child: Image.network(
-                          "https://i.pinimg.com/originals/e5/0c/c6/e50cc6fce3321a71d03526429c7b9c00.jpg",
+                        child: Image.asset(
+                          "assets/images/nokia.jpg",
                           width: 190,
                           height: 130,
                         ),
