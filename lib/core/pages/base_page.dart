@@ -1,6 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_art/nokia-phone/nokia_phone_page.dart';
+import 'package:flutter_art/polaroid-camera/polaroid_camera_page.dart';
 import 'package:flutter_art/watch/watch_page.dart';
 
 class BasePage extends StatefulWidget {
@@ -15,6 +16,7 @@ class _BasePageState extends State<BasePage> {
   Map<String, Widget> pages = {
     "Watch": const WatchPage(),
     "Nokia-1280": const NokiaPhonePage(),
+    "Polaroid Camera": const PolaroidCameraPage(),
   };
 
   @override
