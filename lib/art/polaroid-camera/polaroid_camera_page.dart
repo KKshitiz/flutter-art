@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_art/polaroid-camera/widgets/flash.dart';
-import 'package:flutter_art/polaroid-camera/widgets/lens.dart';
-import 'package:flutter_art/polaroid-camera/widgets/polaroid_logo.dart';
-import 'package:flutter_art/polaroid-camera/widgets/shutter_button.dart';
+import 'package:flutter_art/art/polaroid-camera/widgets/widgets.dart';
 
 class PolaroidCameraPage extends StatelessWidget {
   const PolaroidCameraPage({Key? key}) : super(key: key);

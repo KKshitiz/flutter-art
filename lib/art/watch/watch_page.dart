@@ -2,10 +2,8 @@ import 'dart:async';
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_art/watch/watch_colors.dart';
-import 'package:flutter_art/watch/widgets/hands_pin.dart';
-import 'package:flutter_art/watch/widgets/thick_hand.dart';
-import 'package:flutter_art/watch/widgets/thin_hand.dart';
+import 'package:flutter_art/art/watch/watch_colors.dart';
+import 'package:flutter_art/art/watch/widgets/widgets.dart';
 
 class WatchPage extends StatefulWidget {
   const WatchPage({Key? key}) : super(key: key);

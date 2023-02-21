@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_art/watch/watch_colors.dart';
+import 'package:flutter_art/art/watch/watch_colors.dart';
 
 class ThinHand extends StatelessWidget {
   const ThinHand({Key? key}) : super(key: key);

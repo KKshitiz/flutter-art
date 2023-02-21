@@ -37,6 +37,7 @@ dependencies:
   auto_route: ^5.0.4
   firebase_core: ^2.6.1
   url_strategy: ^0.2.0
+  file: ^6.1.4
 
 dev_dependencies:
   flutter_test:

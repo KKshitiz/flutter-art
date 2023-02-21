@@ -1,7 +1,7 @@
 import 'package:auto_route/annotations.dart';
+import 'package:flutter_art/art/nokia-phone/nokia_phone_page.dart';
+import 'package:flutter_art/art/watch/watch_page.dart';
 import 'package:flutter_art/core/pages/base_page.dart';
-import 'package:flutter_art/nokia-phone/nokia_phone_page.dart';
-import 'package:flutter_art/watch/watch_page.dart';
 
 @MaterialAutoRouter(
   replaceInRouteName: "Page,Route",
