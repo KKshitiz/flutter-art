@@ -1,16 +1,20 @@
-# flutter_art
+# Awesome Flutter Art ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](README.md) [![Website](https://img.shields.io/badge/Website-Online-brightgreen)](https://flutter-art.web.app)
 
-A new Flutter project.
+![Cover Image](./raw/cover-image.png)
 
-## Getting Started
+## Art Gallery
 
-This project is a starting point for a Flutter application.
+![Polaroid Camera](./raw/polaroid.png)
+![Nokia](./raw/nokia.png)
+![Watch](./raw/watch.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Some rules and suggestions for making Flutter Art.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Please try to avoid using any external package.
+2. Add new directory inside lib/art directory for your art.
+3. Try to keep it modular, ie split your widgets into mutiple small ones to help keep the code clean.
+4. Pay attention to linter warnings and try to resolve them before committing.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: Currently, the arts are not responsive. Only web and desktop versions might look good.
+
+## Find inspiration [here](https://css-art.com)
